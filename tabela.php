@@ -1,4 +1,7 @@
-           <div class="col py-3 px-lg-4">
+           
+
+                      <input class="btn btn-primary btn-lg form-control" onclick="getDados(); " style=" margin-top: 30px;" type="submit" name="" id = "salvar" value="Enviar">
+                                 <div class="col py-3 px-lg-4">
                                     <div class="row">
                                          <div class="col align-self-center">
                                              <table style="display: none;" id="tabela" class="table table-striped">
@@ -18,5 +21,4 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
+                          
